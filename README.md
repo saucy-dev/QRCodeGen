@@ -31,5 +31,5 @@ Enter any text or URL in the input box and click the "Generate QR" button. The Q
 
 ## Screenshots
 
-![Screenshot 1](Screenshot from 2025-09-14 22-11-39.png)
-![Screenshot 2](Screenshot from 2025-09-14 22-16-08.png)
+![Screenshot 1](ss1.png)
+![Screenshot 2](ss2.png)
